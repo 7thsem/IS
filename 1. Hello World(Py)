@@ -1,3 +1,4 @@
+PYTHON - 
 string =input("Enter string")
 result_and=""
 result_xor=""
@@ -12,3 +13,5 @@ for char in string:
 print("Orignal string: ",string)
 print("AND result:",result_and)
 print("XOR result:",result_xor) 
+
+C++ -
